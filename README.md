@@ -1,23 +1,27 @@
-# {{COURSE_NAME}}
+# Introduction to the OpenAPI specification
 
 My notes, exercises and reflections while working through
-[{{COURSE_NAME}}]({{COURSE_URL}}).
+[Introduction to the OpenAPI specification](https://idratherbewriting.com/learnapidoc/pubapis_openapi_intro.html).
 
-> This is a personal learning log, not a copy of the course. Notes are written in
-> my own words and link back to the original material — go there for the real thing.
+> This is a personal learning log, not a copy of the course. Notes are written
+> in my own words and link back to the original material. Go there for the real
+> words/material and to keep track of any updates that might have happened.
 
 ## Course info
 
 | | |
 |---|---|
-| Source | <{{COURSE_URL}}> |
-| Started | {{START_DATE}} |
-| Status | In progress |
-| Code | {{LANG}} |
+| Source | <https://idratherbewriting.com/learnapidoc/pubapis_openapi_intro.html> |
+| Started | Todo |
+| Status | Todo |
+| Code | Go |
 
 ## Why I'm taking this
 
-<!-- 2–3 sentences: what I want to be able to do afterwards, and why now. -->
+I've worked with OpenAPI specs but never really done a proper introduction. So
+I'm looking forward to doing one and since this is not, in my understanding, an
+official tutorial I will compare with official documentation to check if there's
+anything that's not up-to-date or current.
 
 ## Outcomes
 
@@ -43,4 +47,5 @@ resources.md               extra reading, related papers and talks
 ## License
 
 Notes: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) ·
-Code: MIT. Course material belongs to its authors; see the source for its license.
+
+Course material belongs to its authors; see the source for its license.

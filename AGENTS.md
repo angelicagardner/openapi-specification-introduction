@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This is my personal learning log for **{{COURSE_NAME}}** (<{{COURSE_URL}}>).
+This is my personal learning log for **Introduction to the OpenAPI specification** (<https://idratherbewriting.com/learnapidoc/pubapis_openapi_intro.html>).
 The goal is that I understand the material. Optimise for my understanding,
 not for finished-looking notes.
 

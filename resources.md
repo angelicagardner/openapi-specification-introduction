@@ -2,7 +2,7 @@
 
 ## Primary source
 
-- [{{COURSE_NAME}}]({{COURSE_URL}})
+- [Introduction to the OpenAPI specification](https://idratherbewriting.com/learnapidoc/pubapis_openapi_intro.html)
 
 ## Supplementary
 
